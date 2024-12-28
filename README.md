@@ -1,7 +1,10 @@
 <div align="center">
+  <br>
+  <br>
   <a href="https://github.com/red-slide/nooly.me">
-    <img src="https://raw.githubusercontent.com/red-slide/nooly.me/main/logo300x200.svg" width="300" height="200"/>
+    <img src="https://raw.githubusercontent.com/red-slide/nooly.me/main/nooly.logo.svg" width="400"/>
   </a>
+  <br>
   <br>
   <br>
     <div>
